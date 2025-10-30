@@ -410,3 +410,4 @@ Threat Hunting jest silnie zintegrowany z innymi koncepcjami bezpieczeństwa:
 
 **Różnica między Threat Hunting a Alertowaniem:** Systemy automatyczne reagują na **znane** sygnatury (Alerting). Threat Hunting szuka **nieznanego** i bazuje na założeniu, że w sieci *już* jest zagrożenie, którego nie wykryto.
 
+
